@@ -5,4 +5,5 @@ Esse é um repositório que contém notebooks que estão sendo produzidos durant
 ## Listas
 
 Notebook explicando um pouco sobre o que são listas e como manipular elas.
+
 [Listas.ipynb](/Listas.ipynb)
