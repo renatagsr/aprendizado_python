@@ -14,6 +14,12 @@ Notebook sobre que são os dicionários, uma função muito útil no python e pa
 
 [Dicionários.ipynb](/Dicionários.ipynb)
 
+## Tuplas 
+
+Nesse notebook há as principais características das tuplas, suas vantagens e suas diferenças em relação as listas.
+
+[Tuplas.ipynb](/Tuplas.ipynb)
+
 ## Corretor 
 
 Aprendizado em um curso da Alura de como fazer um corretor utilizando o python.
